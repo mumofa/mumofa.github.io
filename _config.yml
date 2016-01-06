@@ -4,12 +4,12 @@ header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "Hanson|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://mumofa.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "黄嘉键"
+  email: 410649451@qq.com
   bio: ""
 
 # Data
@@ -18,10 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: mumofa
+weibo_username: 嘉键_JJ
 facebook_username:
-zhihu_username: zhang-yi-sen-46
+zhihu_username: 黄嘉键
 
 # Build settings  
 # use Github Flavored Markdown !important  
